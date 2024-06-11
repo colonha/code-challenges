@@ -7,3 +7,6 @@ Create a program that prints the numbers from 1 to 100. However, for multiples o
 
 ## 2. [Palindrome Detector](code/palindrome.py)
 Create a program that checks if a given word is a palindrome. A palindrome is a word that reads the same forwards and backwards. Your program should ask for a word to check if whether it is a palindrome or not.
+
+## [RGB Inverted](code/rgb_inverted.py)
+Create a function that inverts the RGB values of a given tuple. The function should take a tuple representing an RGB color and return a new tuple with the inverted color. For example, if the input is `(255, 0, 0)`, the output should be `(0, 255, 255)`. Must return a tuple
